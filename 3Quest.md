@@ -4,4 +4,5 @@ O indíce e o local em que a o slot se encontrase dentro do armazenamento, ele �
 tipo um exemplo: int notas[10], assim o indice começaria com |0| mas o  valor |1| estando dentro do slot. 
 
 |1|2|3|4|5|6|7|8|9|10| VALOR DO SLOT
+
 |0|1|2|3|4|5|6|7|8|9| INDICES
